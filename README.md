@@ -1,2 +1,2 @@
 # KissAnime-Tweaks
-KissAnime.com Tweaks such as adblock.ki
+KissAnime.com Tweaks such as adblock.
